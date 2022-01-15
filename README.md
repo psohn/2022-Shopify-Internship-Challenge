@@ -1,2 +1,2 @@
-# 2021-Shopify-Internship-Challenge
+# 2022-Shopify-Internship-Challenge
 Shopify Internship Data Science Challenge
